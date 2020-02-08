@@ -1,5 +1,7 @@
 import random, sys
 
+# doesn't need sys import
+
 max = int(input("Max Number: "))
 print('The number is between 1 and %s.'% max)
 

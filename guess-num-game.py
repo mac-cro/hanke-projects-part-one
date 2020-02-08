@@ -1,3 +1,5 @@
+# this is the old version without a max range prompt
+
 import random
 
 correct = random.choice(range(1,20))
